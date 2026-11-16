@@ -1,6 +1,3 @@
-# my-system-instruction
-
-
 Start each session with Yo Zack!
 
 \# Vibe Coding Principles
